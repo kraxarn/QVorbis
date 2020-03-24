@@ -5,5 +5,8 @@ Note that it currently does not support streaming. This means that the entire fi
 
 Huge thanks to [stb_vorbis](https://github.com/nothings/stb/blob/master/stb_vorbis.c) for providing the base.
 
+## Usage
+Check provided `demo.cpp` file. (to do)
+
 ## License
 Like stb_vorbis, do whatever you want with it.
